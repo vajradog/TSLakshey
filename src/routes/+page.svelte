@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />Test app
+		to your new<br />Website app
 	</h1>
 
 	<h2>
