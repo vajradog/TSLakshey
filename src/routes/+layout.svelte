@@ -25,7 +25,18 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<div class="flex items-center justify-center">
+			<p class="font-bold">
+				Visit Thupten's <a
+					href="https://www.facebook.com/tsherabveg"
+					class="underline decoration-sky-500">Facebook Page</a
+				> to stay connected.
+			</p>
+		</div>
+		<p class="font-light">
+			This website was handmade using the following cutting-edge web application frameworks:
+			SvelteKit, Tailwind CSS and Vercel
+		</p>
 	</footer>
 </div>
 
